@@ -1,0 +1,4022 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7700589344156944294
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589344156944293}
+  - component: {fileID: 7700589344156944299}
+  m_Layer: 0
+  m_Name: Cave32
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589344156944293
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344156944294}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 33
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589344156944299
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344156944294}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589344159491042
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589344159491041}
+  - component: {fileID: 7700589344159491047}
+  m_Layer: 0
+  m_Name: Cave17
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589344159491041
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344159491042}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 18
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589344159491047
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344159491042}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589344164497031
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589344164497030}
+  - component: {fileID: 7700589344164497028}
+  m_Layer: 0
+  m_Name: Cave63
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589344164497030
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344164497031}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 64
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589344164497028
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344164497031}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589344285427993
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589344285427992}
+  - component: {fileID: 7700589344285427998}
+  m_Layer: 0
+  m_Name: Cave14
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589344285427992
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344285427993}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 15
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589344285427998
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344285427993}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589344289256866
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589344289256865}
+  - component: {fileID: 7700589344289256871}
+  m_Layer: 0
+  m_Name: Cave09
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589344289256865
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344289256866}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589344289256871
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344289256866}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589344314093582
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589344314093581}
+  - component: {fileID: 7700589344314093619}
+  m_Layer: 0
+  m_Name: Cave28
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589344314093581
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344314093582}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 29
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589344314093619
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344314093582}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589344334891539
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589344334891538}
+  - component: {fileID: 7700589344334891536}
+  m_Layer: 0
+  m_Name: Cave15
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589344334891538
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344334891539}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 16
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589344334891536
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344334891539}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589344341502225
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589344341502224}
+  - component: {fileID: 7700589344341502230}
+  m_Layer: 0
+  m_Name: Cave50
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589344341502224
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344341502225}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 51
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589344341502230
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344341502225}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589344418518213
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589344418518212}
+  - component: {fileID: 7700589344418518218}
+  m_Layer: 0
+  m_Name: Cave33
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589344418518212
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344418518213}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 34
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589344418518218
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344418518213}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589344439012633
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589344439012632}
+  - component: {fileID: 7700589344439012638}
+  m_Layer: 0
+  m_Name: Cave30
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589344439012632
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344439012633}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 31
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589344439012638
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344439012633}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589344529354365
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589344529354364}
+  - component: {fileID: 7700589344529354338}
+  m_Layer: 0
+  m_Name: Cave19
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589344529354364
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344529354365}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 20
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589344529354338
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344529354365}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589344537853575
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589344537853574}
+  - component: {fileID: 7700589344537853572}
+  m_Layer: 0
+  m_Name: Cave20
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589344537853574
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344537853575}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 21
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589344537853572
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344537853575}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589344543083941
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589344543083940}
+  - component: {fileID: 7700589344543083946}
+  m_Layer: 0
+  m_Name: Cave38
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589344543083940
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344543083941}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 39
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589344543083946
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344543083941}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589344569302686
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589344569302685}
+  - component: {fileID: 7700589344569302659}
+  m_Layer: 0
+  m_Name: Cave27
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589344569302685
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344569302686}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 28
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589344569302659
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344569302686}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589344582953292
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589344582953331}
+  - component: {fileID: 7700589344582953329}
+  m_Layer: 0
+  m_Name: Cave23
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589344582953331
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344582953292}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 24
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589344582953329
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344582953292}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589344704775363
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589344704775362}
+  - component: {fileID: 7700589344704775360}
+  m_Layer: 0
+  m_Name: Cave37
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589344704775362
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344704775363}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 38
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589344704775360
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344704775363}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589344706451171
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589344706451170}
+  - component: {fileID: 7700589344706451168}
+  m_Layer: 0
+  m_Name: Cave61
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589344706451170
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344706451171}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 62
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589344706451168
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344706451171}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589344710458859
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589344710458858}
+  - component: {fileID: 7700589344710458856}
+  m_Layer: 0
+  m_Name: Cave67
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589344710458858
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344710458859}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 68
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589344710458856
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344710458859}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589344721599698
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589344721599697}
+  - component: {fileID: 7700589344721599703}
+  m_Layer: 0
+  m_Name: Cave59
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589344721599697
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344721599698}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 60
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589344721599703
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344721599698}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589344732725941
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589344732725940}
+  - component: {fileID: 7700589344732725946}
+  m_Layer: 0
+  m_Name: Cave10
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589344732725940
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344732725941}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 11
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589344732725946
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344732725941}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589344735228450
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589344735228449}
+  - component: {fileID: 7700589344735228455}
+  m_Layer: 0
+  m_Name: Cave62
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589344735228449
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344735228450}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 63
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589344735228455
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344735228450}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589344777700679
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589344777700678}
+  - component: {fileID: 7700589344777700676}
+  m_Layer: 0
+  m_Name: Cave65
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589344777700678
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344777700679}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 66
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589344777700676
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344777700679}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589344791697926
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589344791697925}
+  - component: {fileID: 7700589344791697931}
+  m_Layer: 0
+  m_Name: Cave51
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589344791697925
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344791697926}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 52
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589344791697931
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344791697926}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589344820968594
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589344820968593}
+  - component: {fileID: 7700589344820968599}
+  m_Layer: 0
+  m_Name: Cave03
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589344820968593
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344820968594}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589344820968599
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344820968594}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589344884966037
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589344884966036}
+  - component: {fileID: 7700589344884966042}
+  m_Layer: 0
+  m_Name: Cave11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589344884966036
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344884966037}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 12
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589344884966042
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344884966037}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589344902183472
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589344902183479}
+  - component: {fileID: 7700589344902183477}
+  m_Layer: 0
+  m_Name: Cave07
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589344902183479
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344902183472}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589344902183477
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589344902183472}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589345002312866
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345002312865}
+  - component: {fileID: 7700589345002312871}
+  m_Layer: 0
+  m_Name: Cave56
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589345002312865
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345002312866}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 57
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589345002312871
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345002312866}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589345055660834
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345055660833}
+  - component: {fileID: 7700589345055660839}
+  m_Layer: 0
+  m_Name: Cave21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589345055660833
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345055660834}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 22
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589345055660839
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345055660834}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589345064110717
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345064110716}
+  - component: {fileID: 7700589345064110690}
+  m_Layer: 0
+  m_Name: Cave12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589345064110716
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345064110717}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 13
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589345064110690
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345064110717}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589345123848043
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345123848042}
+  - component: {fileID: 7700589345123848040}
+  m_Layer: 0
+  m_Name: Cave53
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589345123848042
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345123848043}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 54
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589345123848040
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345123848043}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589345144820652
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345144820563}
+  - component: {fileID: 7700589345144820561}
+  m_Layer: 0
+  m_Name: Cave64
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589345144820563
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345144820652}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 65
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589345144820561
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345144820652}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589345148789047
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345148789046}
+  - component: {fileID: 7700589345148789044}
+  m_Layer: 0
+  m_Name: Cave66
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589345148789046
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345148789047}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 67
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589345148789044
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345148789047}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589345173751297
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345173751296}
+  - component: {fileID: 7700589345173751302}
+  m_Layer: 0
+  m_Name: Cave47
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589345173751296
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345173751297}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 48
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589345173751302
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345173751297}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589345187393267
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345187393266}
+  - component: {fileID: 7700589345187393264}
+  m_Layer: 0
+  m_Name: Cave44
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589345187393266
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345187393267}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 45
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589345187393264
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345187393267}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589345193456609
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345193456608}
+  - component: {fileID: 7700589345193456614}
+  m_Layer: 0
+  m_Name: Cave42
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589345193456608
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345193456609}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 43
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589345193456614
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345193456609}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589345256225507
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345256225506}
+  - component: {fileID: 7700589345256225504}
+  m_Layer: 0
+  m_Name: Cave29
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589345256225506
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345256225507}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 30
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589345256225504
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345256225507}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589345326120883
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345326120882}
+  - component: {fileID: 7700589345326120880}
+  m_Layer: 0
+  m_Name: Cave40
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589345326120882
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345326120883}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 41
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589345326120880
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345326120883}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589345332334010
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345332334009}
+  - component: {fileID: 7700589345332334015}
+  m_Layer: 0
+  m_Name: Cave68
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589345332334009
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345332334010}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 69
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589345332334015
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345332334010}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589345348264479
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345348264478}
+  - component: {fileID: 7700589345348264476}
+  m_Layer: 0
+  m_Name: Cave46
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589345348264478
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345348264479}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 47
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589345348264476
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345348264479}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589345357680175
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345357680174}
+  - component: {fileID: 7700589345357680172}
+  m_Layer: 0
+  m_Name: Cave01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589345357680174
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345357680175}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589345357680172
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345357680175}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589345364638313
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345364638312}
+  - component: {fileID: 7700589345364638318}
+  m_Layer: 0
+  m_Name: Cave34
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589345364638312
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345364638313}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 35
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589345364638318
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345364638313}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 2
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 1
+  unityMouseMovesToVREvents: 1
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589345397808603
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345397808602}
+  - component: {fileID: 7700589345397808600}
+  m_Layer: 0
+  m_Name: Cave57
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589345397808602
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345397808603}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 58
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589345397808600
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345397808603}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589345402494639
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345402494638}
+  - component: {fileID: 7700589345402494636}
+  m_Layer: 0
+  m_Name: Cave55
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589345402494638
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345402494639}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 56
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589345402494636
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345402494639}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589345403625688
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345403625695}
+  - component: {fileID: 7700589345403625693}
+  m_Layer: 0
+  m_Name: Cave08
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589345403625695
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345403625688}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589345403625693
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345403625688}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589345405024222
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345405024221}
+  - component: {fileID: 7700589345405024195}
+  m_Layer: 0
+  m_Name: Cave60
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589345405024221
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345405024222}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 61
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589345405024195
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345405024222}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589345426845677
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345426845676}
+  - component: {fileID: 7700589345426845586}
+  m_Layer: 0
+  m_Name: Cave49
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589345426845676
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345426845677}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 50
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589345426845586
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345426845677}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589345460022061
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345460022060}
+  - component: {fileID: 7700589345460021970}
+  m_Layer: 0
+  m_Name: Cave26
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589345460022060
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345460022061}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 27
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589345460021970
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345460022061}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589345465292595
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345465292594}
+  - component: {fileID: 7700589345465292592}
+  m_Layer: 0
+  m_Name: Cave35
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589345465292594
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345465292595}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 36
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589345465292592
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345465292595}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589345484256448
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345484256455}
+  - component: {fileID: 7700589345484256453}
+  m_Layer: 0
+  m_Name: Cave18
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589345484256455
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345484256448}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 19
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589345484256453
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345484256448}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589345485441080
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345485441087}
+  - component: {fileID: 7700589345485441085}
+  m_Layer: 0
+  m_Name: Cave54
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589345485441087
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345485441080}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 55
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589345485441085
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345485441080}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589345512139471
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345512139470}
+  - component: {fileID: 7700589345512139468}
+  m_Layer: 0
+  m_Name: Cave25
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589345512139470
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345512139471}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 26
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589345512139468
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345512139471}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589345548331232
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345548331239}
+  - component: {fileID: 7700589345548331237}
+  m_Layer: 0
+  m_Name: Cave02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589345548331239
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345548331232}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589345548331237
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345548331232}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589345576985166
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345576985165}
+  - component: {fileID: 7700589345576985203}
+  m_Layer: 0
+  m_Name: Cave41
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589345576985165
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345576985166}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 42
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589345576985203
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345576985166}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589345577337174
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345577337173}
+  - component: {fileID: 7700589345577337179}
+  m_Layer: 0
+  m_Name: Cave31
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589345577337173
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345577337174}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 32
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589345577337179
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345577337174}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589345580164547
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345580164546}
+  - component: {fileID: 7700589345580164544}
+  m_Layer: 0
+  m_Name: Cave06
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589345580164546
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345580164547}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589345580164544
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345580164547}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589345616133881
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345616133880}
+  - component: {fileID: 7700589345616133886}
+  m_Layer: 0
+  m_Name: Cave16
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589345616133880
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345616133881}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 17
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589345616133886
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345616133881}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589345663322150
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345663322149}
+  - component: {fileID: 7700589345663322155}
+  m_Layer: 0
+  m_Name: Cave00
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589345663322149
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345663322150}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589345663322155
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345663322150}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589345783116131
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345783116130}
+  m_Layer: 0
+  m_Name: YurtConfig
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7700589345783116130
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345783116131}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 7700589345931258454}
+  - {fileID: 7700589345663322149}
+  - {fileID: 7700589345357680174}
+  - {fileID: 7700589345548331239}
+  - {fileID: 7700589344820968593}
+  - {fileID: 7700589346087954335}
+  - {fileID: 7700589345806149961}
+  - {fileID: 7700589345580164546}
+  - {fileID: 7700589344902183479}
+  - {fileID: 7700589345403625695}
+  - {fileID: 7700589344289256865}
+  - {fileID: 7700589344732725940}
+  - {fileID: 7700589344884966036}
+  - {fileID: 7700589345064110716}
+  - {fileID: 7700589345867020649}
+  - {fileID: 7700589344285427992}
+  - {fileID: 7700589344334891538}
+  - {fileID: 7700589345616133880}
+  - {fileID: 7700589344159491041}
+  - {fileID: 7700589345484256455}
+  - {fileID: 7700589344529354364}
+  - {fileID: 7700589344537853574}
+  - {fileID: 7700589345055660833}
+  - {fileID: 7700589345857601168}
+  - {fileID: 7700589344582953331}
+  - {fileID: 7700589346231907607}
+  - {fileID: 7700589345512139470}
+  - {fileID: 7700589345460022060}
+  - {fileID: 7700589344569302685}
+  - {fileID: 7700589344314093581}
+  - {fileID: 7700589345256225506}
+  - {fileID: 7700589344439012632}
+  - {fileID: 7700589345577337173}
+  - {fileID: 7700589344156944293}
+  - {fileID: 7700589344418518212}
+  - {fileID: 7700589345364638312}
+  - {fileID: 7700589345465292594}
+  - {fileID: 7700589346163595987}
+  - {fileID: 7700589344704775362}
+  - {fileID: 7700589344543083940}
+  - {fileID: 7700589345905763940}
+  - {fileID: 7700589345326120882}
+  - {fileID: 7700589345576985165}
+  - {fileID: 7700589345193456608}
+  - {fileID: 7700589345943304121}
+  - {fileID: 7700589345187393266}
+  - {fileID: 7700589345990880488}
+  - {fileID: 7700589345348264478}
+  - {fileID: 7700589345173751296}
+  - {fileID: 7700589346148846742}
+  - {fileID: 7700589345426845676}
+  - {fileID: 7700589344341502224}
+  - {fileID: 7700589344791697925}
+  - {fileID: 7700589346126882821}
+  - {fileID: 7700589345123848042}
+  - {fileID: 7700589345485441087}
+  - {fileID: 7700589345402494638}
+  - {fileID: 7700589345002312865}
+  - {fileID: 7700589345397808602}
+  - {fileID: 7700589346123588312}
+  - {fileID: 7700589344721599697}
+  - {fileID: 7700589345405024221}
+  - {fileID: 7700589344706451170}
+  - {fileID: 7700589344735228449}
+  - {fileID: 7700589344164497030}
+  - {fileID: 7700589345144820563}
+  - {fileID: 7700589344777700678}
+  - {fileID: 7700589345148789046}
+  - {fileID: 7700589344710458858}
+  - {fileID: 7700589345332334009}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7700589345806149962
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345806149961}
+  - component: {fileID: 7700589345806149967}
+  m_Layer: 0
+  m_Name: Cave05
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589345806149961
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345806149962}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589345806149967
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345806149962}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589345857601169
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345857601168}
+  - component: {fileID: 7700589345857601174}
+  m_Layer: 0
+  m_Name: Cave22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589345857601168
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345857601169}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 23
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589345857601174
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345857601169}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589345867020650
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345867020649}
+  - component: {fileID: 7700589345867020655}
+  m_Layer: 0
+  m_Name: Cave13
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589345867020649
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345867020650}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 14
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589345867020655
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345867020650}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589345905763941
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345905763940}
+  - component: {fileID: 7700589345905763946}
+  m_Layer: 0
+  m_Name: Cave39
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589345905763940
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345905763941}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 40
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589345905763946
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345905763941}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589345931258455
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345931258454}
+  - component: {fileID: 7700589345931258459}
+  m_Layer: 0
+  m_Name: Desktop
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589345931258454
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345931258455}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589345931258459
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345931258455}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 0
+  serverIPAddress: 127.0.0.1
+  serverPort: 3456
+  numClients: 1
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 1
+  unityMouseMovesToVREvents: 1
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589345943304122
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345943304121}
+  - component: {fileID: 7700589345943304127}
+  m_Layer: 0
+  m_Name: Cave43
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589345943304121
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345943304122}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 44
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589345943304127
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345943304122}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589345990880489
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589345990880488}
+  - component: {fileID: 7700589345990880494}
+  m_Layer: 0
+  m_Name: Cave45
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589345990880488
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345990880489}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 46
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589345990880494
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589345990880489}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589346087954328
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589346087954335}
+  - component: {fileID: 7700589346087954333}
+  m_Layer: 0
+  m_Name: Cave04
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589346087954335
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589346087954328}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589346087954333
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589346087954328}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589346123588313
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589346123588312}
+  - component: {fileID: 7700589346123588318}
+  m_Layer: 0
+  m_Name: Cave58
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589346123588312
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589346123588313}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 59
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589346123588318
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589346123588313}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589346126882822
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589346126882821}
+  - component: {fileID: 7700589346126882827}
+  m_Layer: 0
+  m_Name: Cave52
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589346126882821
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589346126882822}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 53
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589346126882827
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589346126882822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589346148846743
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589346148846742}
+  - component: {fileID: 7700589346148846740}
+  m_Layer: 0
+  m_Name: Cave48
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589346148846742
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589346148846743}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 49
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589346148846740
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589346148846743}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589346163596076
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589346163595987}
+  - component: {fileID: 7700589346163595985}
+  m_Layer: 0
+  m_Name: Cave36
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589346163595987
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589346163596076}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 37
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589346163595985
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589346163596076}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []
+--- !u!1 &7700589346231907600
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7700589346231907607}
+  - component: {fileID: 7700589346231907605}
+  m_Layer: 0
+  m_Name: Cave24
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &7700589346231907607
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589346231907600}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7700589345783116130}
+  m_RootOrder: 25
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7700589346231907605
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7700589346231907600}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1eac3fa18b5e4a4d8812b67b6711f0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vrNodeType: 1
+  serverIPAddress: 172.20.160.1
+  serverPort: 3456
+  numClients: 68
+  windowXPos: 0
+  windowYPos: 0
+  windowWidth: 1920
+  windowHeight: 1080
+  unityMouseBtnsToVREvents: 0
+  unityMouseMovesToVREvents: 0
+  unityKeysToVREvents: []
+  unityAxesToVREvents: []
+  eventAliases: []

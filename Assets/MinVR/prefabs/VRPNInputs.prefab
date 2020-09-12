@@ -1,0 +1,677 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7391672722053327783
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7391672722053327784}
+  - component: {fileID: 7391672722053327785}
+  m_Layer: 0
+  m_Name: Optitrack3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7391672722053327784
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7391672722053327783}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7391672723802152465}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7391672722053327785
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7391672722053327783}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30ec83bd6298fea4f94444216ce174a1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  device: Wand1
+  server: 172.20.160.21:3883
+  sensor: 0
+  eventName: Wand1
+  origin: {fileID: 0}
+  applyUpdatesToGameObject: 0
+  trackingMode: 0
+  reportType: 0
+  threadingMode: 1
+  positionAdjustment: {x: 0, y: 0, z: 0}
+  rotationAdjustment: {x: 0, y: 0, z: 0}
+  scaleAdjustment: {x: 3.28084, y: 3.28084, z: 3.28084}
+--- !u!1 &7391672722491359612
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7391672722491359613}
+  - component: {fileID: 7391672722491359614}
+  m_Layer: 0
+  m_Name: Optitrack2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7391672722491359613
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7391672722491359612}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7391672723802152465}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7391672722491359614
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7391672722491359612}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30ec83bd6298fea4f94444216ce174a1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  device: Wand0
+  server: 172.20.160.21:3883
+  sensor: 0
+  eventName: Wand0
+  origin: {fileID: 0}
+  applyUpdatesToGameObject: 0
+  trackingMode: 0
+  reportType: 0
+  threadingMode: 1
+  positionAdjustment: {x: 0, y: 0, z: 0}
+  rotationAdjustment: {x: 0, y: 0, z: 0}
+  scaleAdjustment: {x: 3.28084, y: 3.28084, z: 3.28084}
+--- !u!1 &7391672722715228509
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7391672722715228510}
+  - component: {fileID: 7391672722715228511}
+  m_Layer: 0
+  m_Name: Optitrack1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7391672722715228510
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7391672722715228509}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7391672723802152465}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7391672722715228511
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7391672722715228509}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30ec83bd6298fea4f94444216ce174a1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  device: Head
+  server: 172.20.160.21:3883
+  sensor: 0
+  eventName: Head
+  origin: {fileID: 0}
+  applyUpdatesToGameObject: 0
+  trackingMode: 0
+  reportType: 0
+  threadingMode: 1
+  positionAdjustment: {x: 0, y: 0, z: 0}
+  rotationAdjustment: {x: 0, y: 0, z: 0}
+  scaleAdjustment: {x: 3.28084, y: 3.28084, z: 3.28084}
+--- !u!1 &7391672722833798108
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7391672722833798109}
+  - component: {fileID: 7391672722833798110}
+  - component: {fileID: 7391672722833798111}
+  m_Layer: 0
+  m_Name: Wand0Analog
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7391672722833798109
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7391672722833798108}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7391672723802152465}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7391672722833798110
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7391672722833798108}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddf6e1b7d6b3c434ca325cfba644913d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  device: Joystick0
+  server: 172.20.160.21:3121
+  channel: 0
+  eventName: Wand_Joystick_Y
+  applyUpdatesToGameObject: 0
+  movementType: 1
+  axis: 0
+  speed: 1
+--- !u!114 &7391672722833798111
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7391672722833798108}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddf6e1b7d6b3c434ca325cfba644913d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  device: Joystick0
+  server: 172.20.160.21:3121
+  channel: 0
+  eventName: Wand_Joystick_X
+  applyUpdatesToGameObject: 0
+  movementType: 1
+  axis: 0
+  speed: 1
+--- !u!1 &7391672723507639810
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7391672723507639811}
+  - component: {fileID: 7391672723507639812}
+  - component: {fileID: 7391672723507639860}
+  - component: {fileID: 7391672723507639859}
+  - component: {fileID: 7391672723507639858}
+  - component: {fileID: 7391672723507639857}
+  - component: {fileID: 7391672723507639856}
+  - component: {fileID: 7391672723507639823}
+  - component: {fileID: 7391672723507639822}
+  - component: {fileID: 7391672723507639821}
+  - component: {fileID: 7391672723507639820}
+  - component: {fileID: 7391672723507639819}
+  - component: {fileID: 7391672723507639818}
+  - component: {fileID: 7391672723507639817}
+  - component: {fileID: 7391672723507639816}
+  - component: {fileID: 7391672723507639815}
+  - component: {fileID: 7391672723507639814}
+  - component: {fileID: 7391672723507639813}
+  m_Layer: 0
+  m_Name: Wand0Btns
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7391672723507639811
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7391672723507639810}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7391672723802152465}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7391672723507639812
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7391672723507639810}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70f22451c395acd4db75dfc8612d74d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  device: Joystick0
+  server: 172.20.160.21:3121
+  button: 0
+  eventName: Wand_Left_Btn
+  applyUpdatesToGameObject: 0
+  movementType: 0
+  axis: 0
+  speed: 1
+--- !u!114 &7391672723507639860
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7391672723507639810}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70f22451c395acd4db75dfc8612d74d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  device: Joystick0
+  server: 172.20.160.21:3121
+  button: 0
+  eventName: Wand_Right_Btn
+  applyUpdatesToGameObject: 0
+  movementType: 0
+  axis: 0
+  speed: 1
+--- !u!114 &7391672723507639859
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7391672723507639810}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70f22451c395acd4db75dfc8612d74d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  device: Joystick0
+  server: 172.20.160.21:3121
+  button: 0
+  eventName: Wand_Middle_Btn
+  applyUpdatesToGameObject: 0
+  movementType: 0
+  axis: 0
+  speed: 1
+--- !u!114 &7391672723507639858
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7391672723507639810}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70f22451c395acd4db75dfc8612d74d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  device: Joystick0
+  server: 172.20.160.21:3121
+  button: 0
+  eventName: B03
+  applyUpdatesToGameObject: 0
+  movementType: 0
+  axis: 0
+  speed: 1
+--- !u!114 &7391672723507639857
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7391672723507639810}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70f22451c395acd4db75dfc8612d74d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  device: Joystick0
+  server: 172.20.160.21:3121
+  button: 0
+  eventName: B04
+  applyUpdatesToGameObject: 0
+  movementType: 0
+  axis: 0
+  speed: 1
+--- !u!114 &7391672723507639856
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7391672723507639810}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70f22451c395acd4db75dfc8612d74d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  device: Joystick0
+  server: 172.20.160.21:3121
+  button: 0
+  eventName: B05
+  applyUpdatesToGameObject: 0
+  movementType: 0
+  axis: 0
+  speed: 1
+--- !u!114 &7391672723507639823
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7391672723507639810}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70f22451c395acd4db75dfc8612d74d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  device: Joystick0
+  server: 172.20.160.21:3121
+  button: 0
+  eventName: B06
+  applyUpdatesToGameObject: 0
+  movementType: 0
+  axis: 0
+  speed: 1
+--- !u!114 &7391672723507639822
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7391672723507639810}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70f22451c395acd4db75dfc8612d74d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  device: Joystick0
+  server: 172.20.160.21:3121
+  button: 0
+  eventName: B07
+  applyUpdatesToGameObject: 0
+  movementType: 0
+  axis: 0
+  speed: 1
+--- !u!114 &7391672723507639821
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7391672723507639810}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70f22451c395acd4db75dfc8612d74d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  device: Joystick0
+  server: 172.20.160.21:3121
+  button: 0
+  eventName: B08
+  applyUpdatesToGameObject: 0
+  movementType: 0
+  axis: 0
+  speed: 1
+--- !u!114 &7391672723507639820
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7391672723507639810}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70f22451c395acd4db75dfc8612d74d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  device: Joystick0
+  server: 172.20.160.21:3121
+  button: 0
+  eventName: B09
+  applyUpdatesToGameObject: 0
+  movementType: 0
+  axis: 0
+  speed: 1
+--- !u!114 &7391672723507639819
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7391672723507639810}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70f22451c395acd4db75dfc8612d74d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  device: Joystick0
+  server: 172.20.160.21:3121
+  button: 0
+  eventName: B10
+  applyUpdatesToGameObject: 0
+  movementType: 0
+  axis: 0
+  speed: 1
+--- !u!114 &7391672723507639818
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7391672723507639810}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70f22451c395acd4db75dfc8612d74d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  device: Joystick0
+  server: 172.20.160.21:3121
+  button: 0
+  eventName: B11
+  applyUpdatesToGameObject: 0
+  movementType: 0
+  axis: 0
+  speed: 1
+--- !u!114 &7391672723507639817
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7391672723507639810}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70f22451c395acd4db75dfc8612d74d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  device: Joystick0
+  server: 172.20.160.21:3121
+  button: 0
+  eventName: B12
+  applyUpdatesToGameObject: 0
+  movementType: 0
+  axis: 0
+  speed: 1
+--- !u!114 &7391672723507639816
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7391672723507639810}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70f22451c395acd4db75dfc8612d74d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  device: Joystick0
+  server: 172.20.160.21:3121
+  button: 0
+  eventName: B13
+  applyUpdatesToGameObject: 0
+  movementType: 0
+  axis: 0
+  speed: 1
+--- !u!114 &7391672723507639815
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7391672723507639810}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70f22451c395acd4db75dfc8612d74d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  device: Joystick0
+  server: 172.20.160.21:3121
+  button: 0
+  eventName: B14
+  applyUpdatesToGameObject: 0
+  movementType: 0
+  axis: 0
+  speed: 1
+--- !u!114 &7391672723507639814
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7391672723507639810}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70f22451c395acd4db75dfc8612d74d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  device: Joystick0
+  server: 172.20.160.21:3121
+  button: 0
+  eventName: B15
+  applyUpdatesToGameObject: 0
+  movementType: 0
+  axis: 0
+  speed: 1
+--- !u!114 &7391672723507639813
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7391672723507639810}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70f22451c395acd4db75dfc8612d74d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  device: Joystick0
+  server: 172.20.160.21:3121
+  button: 0
+  eventName: B16
+  applyUpdatesToGameObject: 0
+  movementType: 0
+  axis: 0
+  speed: 1
+--- !u!1 &7391672723802152943
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7391672723802152465}
+  - component: {fileID: 7391672723802152464}
+  m_Layer: 0
+  m_Name: VRPNInputs
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7391672723802152465
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7391672723802152943}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 7391672722715228510}
+  - {fileID: 7391672722491359613}
+  - {fileID: 7391672722053327784}
+  - {fileID: 7391672723507639811}
+  - {fileID: 7391672722833798109}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7391672723802152464
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7391672723802152943}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b19b943b9796bd47924ff8284509c09, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  analogInputs: []
+  buttonInputs: []
+  trackerInputs: []
